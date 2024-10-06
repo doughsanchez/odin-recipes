@@ -1,0 +1,34 @@
+.ing,
+.main {
+    color:purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.main {
+    font-size:24px;
+}
+
+.title,
+.header {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #f558a1;
+}
+.title {
+    color: white; 
+    background-color: #70344a;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    text-align: center;
+}
